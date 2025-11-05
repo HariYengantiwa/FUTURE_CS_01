@@ -4,16 +4,15 @@
 **Author:** Hari Rakesh Yengantiwar  
 **Role:** Security Analyst (Intern)  
 **Dates:** Oct 20–24, 2025  
-**Contact:** [your.email@example.com]
+**Contact:** yrhari2003@gmail.com
 
 ## Summary
-This repository contains the security assessment deliverables for the [Target Name] web application. The assessment used Burp Suite, OWASP ZAP, and sqlmap to identify issues such as SQL Injection, XSS, and authentication weaknesses.
+This repository contains the security assessment deliverables for the [Future Interns] web application. The assessment used Burp Suite, OWASP ZAP, and sqlmap to identify issues such as SQL Injection, XSS, and authentication weaknesses.
 
 ## Structure
 - `reports/` — final report (PDF and DOCX or Markdown draft)
 - `findings/` — human-readable markdown per finding
 - `evidence/` — screenshots, request logs, burp project files
-- `tools-scripts/` — PoC scripts and helper tools
 - `docs/` — supporting documentation (includes burp-suite-wapt.docx)
 
 ## How to read
