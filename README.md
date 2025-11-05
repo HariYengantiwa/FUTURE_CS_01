@@ -1,9 +1,9 @@
 # FUTURE_CS_01
 # Web Application Security Assessment — [Target Name]
 
-**Author:** Hari Rakesh Yengantiwar  
-**Role:** Security Analyst (Intern)  
-**Dates:** Oct 20–24, 2025  
+**Author:** Hari Rakesh Yengantiwar
+**Conducted By:** Future Intern
+**Role:** Cyber Security (Intern)  
 **Contact:** yrhari2003@gmail.com
 
 ## Summary
