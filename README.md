@@ -1,5 +1,5 @@
 # FUTURE_CS_01
-# Web Application Security Assessment — [Target Name]
+# Web Application Security Assessment — [Future Intern]
 
 **Author:** Hari Rakesh Yengantiwar
 **Conducted By:** Future Intern
